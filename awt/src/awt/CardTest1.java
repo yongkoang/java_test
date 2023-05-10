@@ -25,7 +25,7 @@ class CardTest1 extends Frame {
 			cl = new CardLayout();
 			setLayout(cl);
 			
-			Button b1 = new Button("Button1");
+			Button b1 = new Button("Button11");
 			Button b2 = new Button("Button2");
 			Button b3 = new Button("Button3");
 			Button b4 = new Button("Button4");
